@@ -3,7 +3,7 @@ package test;
 public class TestMethods {
 	
 	public static String getString(){
-		return "Hello World";
+		return "This is my new username";
 	}
 
 }
