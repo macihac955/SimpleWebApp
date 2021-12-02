@@ -1,3 +1,4 @@
+<%@ page import = "test.TestMethods"%>
 <html>
 <head>
 <title>my first Jenkins build</title>
